@@ -1,2 +1,2 @@
 # Dp_Image
-This will create a DP for wattsapp , instagram and more profile picture with resolution without cropping the actual image   
+This will create a DP for wattsapp , instagram and more profile picture with resolution 
